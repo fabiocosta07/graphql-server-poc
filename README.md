@@ -1,1 +1,1 @@
-# graphql-dataloader-poc
+# graphql-server-poc
